@@ -32,7 +32,6 @@ bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing, chip
 <p float="left">
     8x6:
     <img src="bolt.svg" width=8 height=6/>
-    <img src="chip.svg" width=8 height=6/>
     <img src="crosshairs.svg" width=8 height=6/>
     <img src="curve.svg" width=8 height=6/>
     <img src="default.svg" width=8 height=6/>
@@ -43,6 +42,7 @@ bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing, chip
     <img src="hole.svg" width=8 height=6/>
     <img src="play.svg" width=8 height=6/>
     <img src="wing.svg" width=8 height=6/>
+    <img src="chip.svg" width=8 height=6/>
     <img src="chip.svg" width=8 height=6/>
 </p>
 
