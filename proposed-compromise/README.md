@@ -14,29 +14,35 @@ Hat sequences are presented in: 13w 10h, 8w 6h.
 
 bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 
-<img src="bolt.svg" width=13 height=10/>
-<img src="crosshairs.svg" width=13 height=10/>
-<img src="curve.svg" width=13 height=10/>
-<img src="default.svg" width=13 height=10/>
-<img src="ex.svg" width=13 height=10/>
-<img src="eye.svg" width=13 height=10/>
-<img src="fox.svg" width=13 height=10/>
-<img src="frame.svg" width=13 height=10/>
-<img src="hole.svg" width=13 height=10/>
-<img src="play.svg" width=13 height=10/>
-<img src="wing.svg" width=13 height=10/>
+<p float="left">
+    <img src="bolt.svg" width=13 height=10/>
+    <img src="chip.svg" width=13 height=10/>
+    <img src="crosshairs.svg" width=13 height=10/>
+    <img src="curve.svg" width=13 height=10/>
+    <img src="default.svg" width=13 height=10/>
+    <img src="ex.svg" width=13 height=10/>
+    <img src="eye.svg" width=13 height=10/>
+    <img src="fox.svg" width=13 height=10/>
+    <img src="frame.svg" width=13 height=10/>
+    <img src="hole.svg" width=13 height=10/>
+    <img src="play.svg" width=13 height=10/>
+    <img src="wing.svg" width=13 height=10/>
+</p>
 
-<img src="bolt.svg" width=8 height=6/>
-<img src="crosshairs.svg" width=8 height=6/>
-<img src="curve.svg" width=8 height=6/>
-<img src="default.svg" width=8 height=6/>
-<img src="ex.svg" width=8 height=6/>
-<img src="eye.svg" width=8 height=6/>
-<img src="fox.svg" width=8 height=6/>
-<img src="frame.svg" width=8 height=6/>
-<img src="hole.svg" width=8 height=6/>
-<img src="play.svg" width=8 height=6/>
-<img src="wing.svg" width=8 height=6/>
+<p float="left">
+    <img src="bolt.svg" width=8 height=6/>
+    <img src="chip.svg" width=8 height=6/>
+    <img src="crosshairs.svg" width=8 height=6/>
+    <img src="curve.svg" width=8 height=6/>
+    <img src="default.svg" width=8 height=6/>
+    <img src="ex.svg" width=8 height=6/>
+    <img src="eye.svg" width=8 height=6/>
+    <img src="fox.svg" width=8 height=6/>
+    <img src="frame.svg" width=8 height=6/>
+    <img src="hole.svg" width=8 height=6/>
+    <img src="play.svg" width=8 height=6/>
+    <img src="wing.svg" width=8 height=6/>
+</p>
 
 ### bolt
 
