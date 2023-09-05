@@ -6,15 +6,16 @@ Also tried to keep very similar to the original spirit of that, except for hole.
 
 ## hats
 
-Individual hats are presented as: 200w 150h, 13w 10h, 8w 6h.
+Dimensions are formatted `{Width}x{Height}`.
 
-Hat sequences are presented in: 13w 10h, 8w 6h.
+Individual hats are presented as: 200x150, 13x10, 8x6.
 
 ### all hats
 
 bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 
 <p float="left">
+    13x10:
     <img src="bolt.svg" width=13 height=10/>
     <img src="crosshairs.svg" width=13 height=10/>
     <img src="curve.svg" width=13 height=10/>
@@ -29,6 +30,7 @@ bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 </p>
 
 <p float="left">
+    8x6:
     <img src="bolt.svg" width=8 height=6/>
     <img src="crosshairs.svg" width=8 height=6/>
     <img src="curve.svg" width=8 height=6/>

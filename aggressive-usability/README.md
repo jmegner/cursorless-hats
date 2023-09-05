@@ -5,17 +5,17 @@ I allowed the hats to become much uglier and farther from the spirit of the orig
 
 ## hats
 
-Individual hats are presented as: 200w 150h, 13w 10h, 8w 6h.
+Dimensions are formatted `{Width}x{Height}`.
 
-Hat sequences are presented in: 13w 10h, 8w 6h.
+Individual hats are presented as: 200x150, 13x10, 8x6.
 
 ### all hats
 
-bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
+bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing, chip
 
 <p float="left">
+    13x10:
     <img src="bolt.svg" width=13 height=10/>
-    <img src="chip.svg" width=13 height=10/>
     <img src="crosshairs.svg" width=13 height=10/>
     <img src="curve.svg" width=13 height=10/>
     <img src="default.svg" width=13 height=10/>
@@ -26,9 +26,11 @@ bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
     <img src="hole.svg" width=13 height=10/>
     <img src="play.svg" width=13 height=10/>
     <img src="wing.svg" width=13 height=10/>
+    <img src="chip.svg" width=13 height=10/>
 </p>
 
 <p float="left">
+    8x6:
     <img src="bolt.svg" width=8 height=6/>
     <img src="chip.svg" width=8 height=6/>
     <img src="crosshairs.svg" width=8 height=6/>
@@ -41,6 +43,7 @@ bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
     <img src="hole.svg" width=8 height=6/>
     <img src="play.svg" width=8 height=6/>
     <img src="wing.svg" width=8 height=6/>
+    <img src="chip.svg" width=8 height=6/>
 </p>
 
 ### bolt
@@ -50,14 +53,6 @@ bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 <img src="bolt.svg" width=13 height=10/>
 
 <img src="bolt.svg" width=8 height=6/>
-
-### chip (not an official hat)
-
-<img src="chip.svg" width=200 height=150/>
-
-<img src="chip.svg" width=13 height=10/>
-
-<img src="chip.svg" width=8 height=6/>
 
 ### crosshairs
 
@@ -138,3 +133,11 @@ bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 <img src="wing.svg" width=13 height=10/>
 
 <img src="wing.svg" width=8 height=6/>
+
+### chip (not an official hat)
+
+<img src="chip.svg" width=200 height=150/>
+
+<img src="chip.svg" width=13 height=10/>
+
+<img src="chip.svg" width=8 height=6/>
