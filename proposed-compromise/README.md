@@ -12,11 +12,10 @@ Hat sequences are presented in: 13w 10h, 8w 6h.
 
 ### all hats
 
-bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
+bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 
 <p float="left">
     <img src="bolt.svg" width=13 height=10/>
-    <img src="chip.svg" width=13 height=10/>
     <img src="crosshairs.svg" width=13 height=10/>
     <img src="curve.svg" width=13 height=10/>
     <img src="default.svg" width=13 height=10/>
@@ -31,7 +30,6 @@ bolt, chip, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing
 
 <p float="left">
     <img src="bolt.svg" width=8 height=6/>
-    <img src="chip.svg" width=8 height=6/>
     <img src="crosshairs.svg" width=8 height=6/>
     <img src="curve.svg" width=8 height=6/>
     <img src="default.svg" width=8 height=6/>
