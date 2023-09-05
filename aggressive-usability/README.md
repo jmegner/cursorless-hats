@@ -43,7 +43,6 @@ bolt, crosshairs, curve, default, ex, eye, fox, frame, hole, play, wing, chip
     <img src="play.svg" width=8 height=6/>
     <img src="wing.svg" width=8 height=6/>
     <img src="chip.svg" width=8 height=6/>
-    <img src="chip.svg" width=8 height=6/>
 </p>
 
 ### bolt
