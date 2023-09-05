@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 8 6" 
+    width="1em" 
+    height="1em"
+    >
+    <path
+        fill="#666"
+        d="
+            M 4,0
+            L 8,2
+            L 8,4
+            L 4,6
+            L 0,4
+            L 0,2
+            Z
+            M 4,1
+            a 0.8,2 0 0 0 0,4
+            a 0.8,2 0 0 0 0,-4
+        "
+    />
+</svg>
