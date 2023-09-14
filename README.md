@@ -2,6 +2,14 @@
 
 This hosts some non-standard hat collections.
 
+You can use non-standard hats by adding `"cursorless.private.hatShapesDir": "/path/to/your/hat/dir",` to your vscode settings.json.
+
+My thanks to Martin Rykfors for the [hat sandbox idea](https://github.com/MartinRykfors/cursorless_hat_sandbox/blob/master/preview.md).
+
+## Out Of Date Instructions
+
+You no longer have to do the following.  You can use the `cursorless.private.hatShapesDir` setting as described above.
+
 You can use the [put_hats.ps1](put_hats.ps1) script to manually install the hats now (puts them in latest `~/.vscode/extensions/pokey.cursorless-VERSION_NUMBER` folder).
 Place the script in the hat source folder, then run it and reload vscode (command palette → "Developer: Reload Window").
 
@@ -14,6 +22,4 @@ hats update:
     user.vscode("workbench.action.reloadWindow")
 ```
 
-Also, it looks like there will soon be the ability to configure cursorless to use a folder of you choosing ([PR](https://github.com/cursorless-dev/cursorless/pull/1853)).
-
-My thanks to Martin Rykfors for the [hat sandbox idea](https://github.com/MartinRykfors/cursorless_hat_sandbox/blob/master/preview.md).
+Also, it looks like there will soon be the ability to configure cursorless to use a folder of you choosing ([PR](https://github.com/cursorless-dev/cursorless/pull/1853)). (UPDATE: it is done in a private way for now.)
