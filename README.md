@@ -6,8 +6,6 @@ My thanks to Martin Rykfors for the [hat sandbox idea](https://github.com/Martin
 
 ## Instructions
 
-You no longer have to do the following.  You can use the `cursorless.private.hatShapesDir` setting as described above.
-
 You can use the [put_hats.ps1](put_hats.ps1) script to manually install the hats (puts them in latest `~/.vscode/extensions/pokey.cursorless-VERSION_NUMBER` folder).
 Place the script in the hat source folder, then run it and reload vscode (command palette → "Developer: Reload Window").
 
