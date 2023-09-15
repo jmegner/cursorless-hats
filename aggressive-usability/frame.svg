@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 6" width="1em" height="1em"><path fill="#666" d="M 0,0 8,0 8,6 0,6 0,0 Z M 2.5,1.7 2.5,4.3 4.5,4.3 4.5,1.7 Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 8 6" 
+    width="1em" 
+    height="1em"
+    >
+    <path
+        fill="#666"
+        d="
+            M 0,0 8,0 8,6 0,6 0,0 Z
+        "
+    />
+    <!--
+        the path used to have
+        "M 1,2.4 1,5.0 3,5.0 3,2.4 Z"
+        at the end for a hole
+    -->
+</svg>
